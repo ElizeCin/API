@@ -1,3 +1,5 @@
+package jsonObjects;
+
 public class Exchange {
     public int r030;
     public String txt;

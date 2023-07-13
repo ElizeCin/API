@@ -1,4 +1,6 @@
 import com.fasterxml.jackson.databind.ObjectMapper;
+import jsonObjects.Exchange;
+import rest.Rest;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import java.io.IOException;

@@ -1,9 +1,9 @@
+import rest.Rest;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import java.io.IOException;
-
 
 public class TestApi {
     static JSONArray jsonArray;
